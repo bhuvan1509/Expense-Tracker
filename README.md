@@ -8,5 +8,5 @@ It’s a great tool for managing finances
 ![image](https://github.com/user-attachments/assets/6669d245-8598-418c-add4-96e5de1467bd)
 
 
-![image](https://github.com/user-attachments/assets/9a2f57b1-de92-4baf-853b-3d3d6d5efc5f)
+![image](https://github.com/user-attachments/assets/608aa2d9-caf2-44f1-ad72-e4ed3f2e8f57)
 
