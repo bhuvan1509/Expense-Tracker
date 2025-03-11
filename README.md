@@ -6,3 +6,7 @@ Developed our own Expense Tracker Application using Python and SQL. We used Tkin
 
 It’s a great tool for managing finances 
 ![image](https://github.com/user-attachments/assets/6669d245-8598-418c-add4-96e5de1467bd)
+
+
+![Uploading image.png…]()
+
